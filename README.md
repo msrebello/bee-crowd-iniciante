@@ -7,12 +7,12 @@
   <p> Soluções Beecrowd (URI Online Judge) - Iniciante </p>
 </h2>
 
-## :bee: Meu perfil:
+## 🐝 Meu perfil:
 <div style="display: inline_block">
   <a href="https://www.beecrowd.com.br/judge/pt/profile/810128" height="30em" target="_blank"><img src="https://img.shields.io/badge/-Beecrowd-9400D3?style=for-the-badge" target="_blank"></a>
 </div>
 
-## :rocket: Tecnologias Utilizadas:
+## 🚀 Tecnologias Utilizadas:
 
 - Linguagens:
 
